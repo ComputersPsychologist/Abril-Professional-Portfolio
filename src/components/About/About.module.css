@@ -1,0 +1,48 @@
+.about {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.titleCont {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  padding-top: 4.5rem;
+  font-family: 'bosch';
+  font-size: 3.5rem;
+}
+
+.h3b {
+  text-align: end;
+}
+
+.aboutContent {
+  display: flex;
+  justify-content: center;
+  gap: 9rem;
+  width: 100%;
+  padding: 2rem;
+  font-family: 'neu';
+  font-size: 1.5rem;
+}
+
+.pic {
+  aspect-ratio: 7,2 / 9;
+  max-width: 30%;
+  height: auto;
+}
+
+.description {
+  width: 100%;
+  font-family: 'neulight';
+  font-weight: 100;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 2rem
+}

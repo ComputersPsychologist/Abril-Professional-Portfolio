@@ -1,5 +1,5 @@
 'use client'
-import styles from "./page.module.css";
+// import styles from "./page.module.css";
 import Main from "@/components/Main/Main";
 import About from "@/components/About/About";
 import Sections from "@/components/Sections/Sections";
